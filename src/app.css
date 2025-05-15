@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@import '@fontsource/fira-mono';
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+@plugin "daisyui";
